@@ -4,6 +4,7 @@ This is nfs-utils, the Linux NFS userland utility package.
 0. PROJECT RESOURCES
 
 Home page:  http://sourceforge.net/projects/nfs/
+	    https://www.linuxfromscratch.org/blfs/view/cvs/basicnet/nfs-utils.html
 
 To use the 'gss' support you must have kerberos-5 development 
 libraries installed.
